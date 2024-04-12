@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=dodokim98💻%20&fontSize=90)
 
-# 😀 상상을 현실로! 생각한 걸 개발하고 싶은 개발자 '김도현' 입니다.
+## 😀 상상을 현실로! 생각한 걸 개발하고 싶은 개발자 '김도현' 입니다.
 
 안녕하세요! 제 이름은 [김도현]이고 백엔드 개발자입니다. 이 리포지토리는 저의 프로젝트와 기술 스택에 대한 정보를 담고 있습니다.
 
