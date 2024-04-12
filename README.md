@@ -2,7 +2,7 @@
 
 # 😀 상상을 현실로! 생각한 걸 개발하고 싶은 개발자 '김도현' 입니다.
 
-안녕하세요! 제 이름은 [이름]이고 백엔드 개발자입니다. 이 리포지토리는 저의 프로젝트와 기술 스택에 대한 정보를 담고 있습니다.
+안녕하세요! 제 이름은 [김도현]이고 백엔드 개발자입니다. 이 리포지토리는 저의 프로젝트와 기술 스택에 대한 정보를 담고 있습니다.
 
 ##  📚기술 스택📚
 
@@ -47,7 +47,7 @@ Collaborative :
 
 |Title|Introduction|Languages, etc.|
 |------|---|---|
-|[EasySign](https://www.naver.com/)|모션인식을 활용하여 배우는 수어 교육|	Java, Spring Boot, JPA|
+|[EasySign](https://github.com/OnlyTeamLeaderIsE/Sueoswiwo)|모션인식을 활용하여 배우는 수어 교육|	Java, Spring Boot, JPA|
 |[ForMyBaby](https://www.naver.com/)|부모가 한숨 돌릴 수 있는 아이 지킴이|	Java, Spring Boot, JPA|
 
 Experience
