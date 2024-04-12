@@ -43,24 +43,21 @@ Collaborative :
 <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-## 프로젝트
+## Projects
 
-### 프로젝트 이름 1
+|Title|Introduction|Languages, etc.|
+|------|---|---|
+|[EasySign](https://www.naver.com/)|모션인식을 활용하여 배우는 수어 교육|	Java, Spring Boot, JPA|
+|[ForMyBaby](https://www.naver.com/)|부모가 한숨 돌릴 수 있는 아이 지킴이|	Java, Spring Boot, JPA|
 
-간단한 설명을 적어주세요.
+Experience
 
-- **기술 사용**: Django, MySQL, AWS EC2
-- **링크**: [프로젝트 링크](링크)
+💻 SSAFY (Samsung Software Academy Foy Youth) 10th (2023.07~)
 
-### 프로젝트 이름 2
-
-간단한 설명을 적어주세요.
-
-- **기술 사용**: Flask, PostgreSQL, Docker
-- **링크**: [프로젝트 링크](링크)
+🏅2024년 삼성 청년 SW 아카데미 2학기 공통 프로젝트 우수상 (2024.2.29)
 
 ## 문의
 
 궁금한 점이나 협업 제안이 있으시다면 언제든지 연락주세요!
 
-이메일: example@example.com
+이메일: eh6848zzz@gmail.com
