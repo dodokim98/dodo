@@ -82,11 +82,18 @@
 <h2>Experience</h2>
 
 🎓 전남대학교 컴퓨터 정보통신공학과(Computer Information and Communication Engineering Department at Chonnam National University) (2017.3 ~ 2023.8) <br>
-🛠 22년 2022년 6월27일(월) ~ 7월 29일 만들마루 활동 (전남대학교 산학협력단) <br>
+🛠 22년 (2022.06 ~ 2022.07) 만들마루 활동 (전남대학교 산학협력단) <br>
+📟 스마트인재개발원 (2023.03~ 2023.07) <br>
 💻 SSAFY (Samsung Software Academy Foy Youth) 10th (2023.07~) <br>
 🏅 2024년 삼성 청년 SW 아카데미 2학기 공통 프로젝트 우수상 (2024.2.29)
 
 ---
+
+<h2>💻 Algorithm 💻</h2>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eh6848zzz)](https://solved.ac/eh6848zzz/)
+
+
 
 <h2>문의</h2>
 
