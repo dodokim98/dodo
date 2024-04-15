@@ -62,6 +62,11 @@
       <th>Introduction</th>
       <th>Languages, etc.</th>
     </tr>
+   <tr>
+      <td><a href="https://github.com/2022-SMHRD-KDT-DCX-BigData-6/GoodPrice_team.git">혜자특공대</a></td>
+      <td>행정안전부의 착한 가격 업소에 관한 데이터를 기반으로 한 착한가격 업소 웹사이트</td>
+      <td>Java</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/OnlyTeamLeaderIsE/Sueoswiwo">EasySign</a></td>
       <td>모션인식을 활용하여 배우는 수어 교육</td>
@@ -72,6 +77,7 @@
       <td>부모가 한숨 돌릴 수 있는 아이 지킴이</td>
       <td>Java, Spring Boot, JPA</td>
     </tr>
+    2023.05.22 ~ 2023.06.10
   </table>
 </div>
 
