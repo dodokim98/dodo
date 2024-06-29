@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=dodokim98💻%20&fontSize=90">
-  <h2>상상을 현실로! 생각한 걸 개발하고 싶은 개발자 '김도현' 입니다.</h2>
+  <h2>성장하는 개발자 '김도현' 입니다.</h2>
 </div>
 
 ---
