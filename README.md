@@ -63,7 +63,7 @@
   <tr>
     <td><a href="https://github.com/dodokim98/Trigger">트리거(Trigger)</a></td>
     <td>실시간 라이브와 랭킹과 공지사항을 제공하는 언리얼 엔진 기반 FPS 게임 커뮤니티 웹사이트</td>
-    <td>Java, Spring Boot, Spring Security, JPA, MySql, Redis, AWS, Jenkins, Docker</td>
+    <td>Java, Spring Boot, Spring Security, JPA, MySql, Redis, Jenkins, Docker, AWS</td>
   </tr>
   <tr>
     <td><a href="https://github.com/dodokim98/ForMyBaby">포마베(ForMyBaby)</a></td>
@@ -73,7 +73,7 @@
   <tr>
     <td><a href="https://github.com/OnlyTeamLeaderIsE/Sueoswiwo">수어쉬워(EasySign)</a></td>
     <td>어린 아이들도 쉽게 배울 수 있는 모션인식 기반 수어 학습 사이트</td>
-    <td>Java, Spring Boot, Spring Security, JPA, MySql, Redis, AWS, Jenkins, Docker</td>
+    <td>Java, Spring Boot, Spring Security, JPA, MySql, Redis, Jenkins, Docker, AWS</td>
   </tr>
   <tr>
     <td><a href="https://www.naver.com/">도도트립(DoDoTrip)</a></td>
@@ -83,7 +83,7 @@
   <tr>
     <td><a href="https://github.com/2022-SMHRD-KDT-DCX-BigData-6/GoodPrice_team.git">혜자특공대</a></td>
     <td>행정안전부의 착한 가격 업소에 관한 데이터를 기반으로 한 착한가격 업소 웹사이트</td>
-    <td>Java</td>
+    <td>Java, Python, Spring, Oracle, Jupyter, Apache Tomcat</td>
   </tr>
 </table>
 
@@ -102,10 +102,3 @@
 <h2>💻 Algorithm 💻</h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eh6848zzz)](https://solved.ac/eh6848zzz/)
-
-
-
-<h2>문의</h2>
-
-궁금한 점이나 협업 제안이 있으시다면 언제든지 연락주세요! <br>
-이메일: eh6848zzz@gmail.com
