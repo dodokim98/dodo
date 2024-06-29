@@ -90,12 +90,19 @@
 ---
 
 <h2>Experience</h2>
-
-🎓 전남대학교 컴퓨터 정보통신공학과(Computer Information and Communication Engineering Department at Chonnam National University) (2017.3 ~ 2023.8) <br>
-🛠 22년 (2022.06 ~ 2022.07) 만들마루 활동 (전남대학교 산학협력단) <br>
+💻 SSAFY (Samsung Software Academy Foy Youth) 10th (2023.07 ~ 2024.06) <br>
+🎓 전남대학교 컴퓨터 정보통신공학과(Computer Information and Communication Engineering Department at Chonnam National University) (2017.03 ~ 2023.08) <br>
 📟 스마트인재개발원 (2023.03~ 2023.07) <br>
-💻 SSAFY (Samsung Software Academy Foy Youth) 10th (2023.07~) <br>
-🏅 2024년 삼성 청년 SW 아카데미 2학기 공통 프로젝트 우수상 (2024.2.29)
+🛠 22년 (2022.06 ~ 2022.07) 만들마루 활동 (전남대학교 산학협력단) <br>
+🎮 광주정보문화진흥원콘텐츠 아카데미 정규 과정(게임 제작) (2021.07 ~ 2021.08) <br>
+
+---
+
+<h2>Awards</h2>
+🏅 2024년 삼성 청년 SW 아카데미 2학기 공통 프로젝트 우수상 (2024.2.29) <br>
+🎖 경기도 온라인 메이커 경진대회 방구석 메이커리그 시즌2 장려상 (2022.10) <br>
+🏆 전남대학교 발명 아이디어 사업화 공모전 대상(1위)(2022.09) <br>
+🏆 전남대학교 메이커 스타트업 경진대회 최우수상(1위) (2022.07) <br>
 
 ---
 
