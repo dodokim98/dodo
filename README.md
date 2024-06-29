@@ -76,7 +76,7 @@
     <td>Java, Spring Boot, Spring Security, JPA, MySql, Redis, Jenkins, Docker, AWS</td>
   </tr>
   <tr>
-    <td><a href="https://www.naver.com/">도도트립(DoDoTrip)</a></td>
+    <td><a href="https://github.com/dodokim98/DoDoTrip">도도트립(DoDoTrip)</a></td>
     <td>지역별 관광지를 추천해주고 서로 여행 계획을 공유할 수 있는 여행 사이트</td>
     <td>Java, Spring Boot, Spring security, MySQL, MyBatis, Vue.js</td>
   </tr>
