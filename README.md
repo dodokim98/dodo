@@ -61,19 +61,29 @@
     <th>Languages, etc.</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/dodokim98/Trigger">트리거(Trigger)</a></td>
+    <td>실시간 라이브와 랭킹과 공지사항을 제공하는 언리얼 엔진 기반 FPS 게임 커뮤니티 웹사이트</td>
+    <td>Java, Spring Boot, Spring Security, JPA, MySql, Redis, AWS, Jenkins, Docker</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/dodokim98/ForMyBaby">포마베(ForMyBaby)</a></td>
+    <td>AI 기술을 활용하여 실시간으로 아기 방의 환경 모니터링 및 수면 패턴 분석과 알림을 통해 보호자에게 다양한 서비스를 제공하는 서비스</td>
+    <td>Java, Spring Boot, Spring Security, JPA, MySql, Redis, AWS, Jenkins, Docker,WebSocket</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/OnlyTeamLeaderIsE/Sueoswiwo">수어쉬워(EasySign)</a></td>
+    <td>어린 아이들도 쉽게 배울 수 있는 모션인식 기반 수어 학습 사이트</td>
+    <td>Java, Spring Boot, Spring Security, JPA, MySql, Redis, AWS, Jenkins, Docker</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.naver.com/">도도트립(DoDoTrip)</a></td>
+    <td>지역별 관광지를 추천해주고 서로 여행 계획을 공유할 수 있는 여행 사이트</td>
+    <td>Java, Spring Boot, Spring security, MySQL, MyBatis, Vue.js</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/2022-SMHRD-KDT-DCX-BigData-6/GoodPrice_team.git">혜자특공대</a></td>
     <td>행정안전부의 착한 가격 업소에 관한 데이터를 기반으로 한 착한가격 업소 웹사이트</td>
     <td>Java</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/OnlyTeamLeaderIsE/Sueoswiwo">EasySign</a></td>
-    <td>모션인식을 활용하여 배우는 수어 교육</td>
-    <td>Java, Spring Boot, JPA</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.naver.com/">ForMyBaby</a></td>
-    <td>부모가 한숨 돌릴 수 있는 아이 지킴이</td>
-    <td>Java, Spring Boot, JPA</td>
   </tr>
 </table>
 
