@@ -10,9 +10,10 @@
 
 <div>
   <div style="display: inline-block;">
-    <h3>언어</h3>
+    <h3>Language</h3>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/c++-3776AB?style=for-the-badge&logo=c++&logoColor=white">
   </div>
   <div style="display: inline-block;">
     <h3>Backend</h3>
@@ -26,11 +27,13 @@
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+    <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   </div>
   <div style="display: inline-block;">
     <h3>Database</h3>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+    <img src="https://camo.githubusercontent.com/cc5c7f6ae7c28e2d1e2bed02b7ad41b8ae846f9636537e753ad6ffbeede316dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f7261636c652d4638303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f7261636c65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" style="max-width: 100%;">
   </div>
   <div style="display: inline-block;">
     <h3>DevOps</h3>
@@ -38,15 +41,20 @@
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+    <img src="https://camo.githubusercontent.com/eed8d3cf8d5458b2b61bd56e44374f09d69b8830203b929462dbfa2f37ad792f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6177732d3233324633453f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" style="max-width: 100%;">
   </div>
   <div style="display: inline-block;">
-    <h3>Collaborative</h3>
+    <h3>Collaborative & Tools</h3>
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
     <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
     <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+    <img src="https://camo.githubusercontent.com/87c409192194d6948ad844181aaa769ecf33c3a54c1777a251ff85c119add320/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e74656c6c694a2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a69646561266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/intelliJ-000000?style=for-the-badge&amp;logo=intellijidea&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/b7442843ee285f07858a6032cd5673a9655437c93f52b0ccfd5289035e597c26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65636c697073652d3243323235353f7374796c653d666f722d7468652d6261646765266c6f676f3d65636c69707365696465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&amp;logo=eclipseide&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://camo.githubusercontent.com/1961c377ad1941427a8b9c5a35b0bb152b4d34ad75e8668c1f292788b1eecf9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7673636f64652d3030376163633f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/vscode-007acc?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
   </div>
 </div>
 
