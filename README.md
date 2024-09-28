@@ -4,6 +4,7 @@
 </div>
 
 ---
+
 <div align="center">
   <h2>📚기술 스택📚</h2>
 </div>
@@ -13,7 +14,7 @@
     <h3>Language</h3>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/c++-3776AB?style=for-the-badge&logo=c++&logoColor=white">
+    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <!-- c++ 로고 수정 -->
   </div>
   <div style="display: inline-block;">
     <h3>Backend</h3>
@@ -33,7 +34,7 @@
     <h3>Database</h3>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-    <img src="https://camo.githubusercontent.com/cc5c7f6ae7c28e2d1e2bed02b7ad41b8ae846f9636537e753ad6ffbeede316dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f7261636c652d4638303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6f7261636c65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   </div>
   <div style="display: inline-block;">
     <h3>DevOps</h3>
@@ -41,7 +42,7 @@
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-    <img src="https://camo.githubusercontent.com/eed8d3cf8d5458b2b61bd56e44374f09d69b8830203b929462dbfa2f37ad792f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6177732d3233324633453f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e617773266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <!-- AWS URL 수정 -->
   </div>
   <div style="display: inline-block;">
     <h3>Collaborative & Tools</h3>
@@ -51,9 +52,9 @@
     <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
     <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img src="https://camo.githubusercontent.com/87c409192194d6948ad844181aaa769ecf33c3a54c1777a251ff85c119add320/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e74656c6c694a2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a69646561266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/intelliJ-000000?style=for-the-badge&amp;logo=intellijidea&amp;logoColor=white" style="max-width: 100%;">
-    <img src="https://camo.githubusercontent.com/b7442843ee285f07858a6032cd5673a9655437c93f52b0ccfd5289035e597c26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65636c697073652d3243323235353f7374796c653d666f722d7468652d6261646765266c6f676f3d65636c69707365696465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&amp;logo=eclipseide&amp;logoColor=white" style="max-width: 100%;">
-    <img src="https://camo.githubusercontent.com/1961c377ad1941427a8b9c5a35b0bb152b4d34ad75e8668c1f292788b1eecf9f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7673636f64652d3030376163633f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/vscode-007acc?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/intelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <!-- IntelliJ URL 수정 -->
+    <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <!-- Eclipse URL 수정 -->
+    <img src="https://img.shields.io/badge/vscode-007acc?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <!-- VSCode URL 수정 -->
     <img src="https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
   </div>
 </div>
@@ -76,7 +77,7 @@
   <tr>
     <td><a href="https://github.com/dodokim98/ForMyBaby">포마베(ForMyBaby)</a></td>
     <td>AI 기술을 활용하여 실시간으로 아기 방의 환경 모니터링 및 수면 패턴 분석과 알림을 통해 보호자에게 다양한 서비스를 제공하는 서비스</td>
-    <td>Java, Spring Boot, Spring Security, JPA, MySql, Redis, AWS, Jenkins, Docker,WebSocket</td>
+    <td>Java, Spring Boot, Spring Security, JPA, MySql, Redis, AWS, Jenkins, Docker, WebSocket</td>
   </tr>
   <tr>
     <td><a href="https://github.com/OnlyTeamLeaderIsE/Sueoswiwo">수어쉬워(EasySign)</a></td>
@@ -86,7 +87,7 @@
   <tr>
     <td><a href="https://github.com/dodokim98/DoDoTrip">도도트립(DoDoTrip)</a></td>
     <td>지역별 관광지를 추천해주고 서로 여행 계획을 공유할 수 있는 여행 사이트</td>
-    <td>Java, Spring Boot, Spring security, MySQL, MyBatis, Vue.js</td>
+    <td>Java, Spring Boot, Spring Security, MySQL, MyBatis, Vue.js</td>
   </tr>
   <tr>
     <td><a href="https://github.com/2022-SMHRD-KDT-DCX-BigData-6/GoodPrice_team.git">혜자특공대</a></td>
@@ -94,27 +95,3 @@
     <td>Java, Python, Spring, Oracle, Jupyter, Apache Tomcat</td>
   </tr>
 </table>
-
----
-
-<h2>Experience</h2>
-💻 SSAFY (Samsung Software Academy Foy Youth) 10th (2023.07 ~ 2024.06) <br>
-🎓 전남대학교 컴퓨터 정보통신공학과(Computer Information and Communication Engineering Department at Chonnam National University) (2017.03 ~ 2023.08) <br>
-📟 스마트인재개발원 (2023.03~ 2023.07) <br>
-🛠 22년 (2022.06 ~ 2022.07) 만들마루 활동 (전남대학교 산학협력단) <br>
-🎮 광주정보문화진흥원콘텐츠 아카데미 정규 과정(게임 제작) (2021.07 ~ 2021.08) <br>
-
----
-
-<h2>Awards</h2>
-🏅 2024년 삼성 청년 SW 아카데미 2학기 공통 프로젝트 우수상(3위) (2024.2.29) <br>
-🎖 경기도 온라인 메이커 경진대회 방구석 메이커리그 시즌2 장려상 (2022.10) <br>
-🏆 전남대학교 발명 아이디어 사업화 공모전 대상(1위)(2022.09) <br>
-🏆 전남대학교 메이커 스타트업 경진대회 최우수상(1위) (2022.07) <br>
-🏅 광주정보 문화진흥원 콘텐츠 아카데미 정규 과정(게임 제작) 우수상(3위) (2021.08) <br>
-
----
-
-<h2>💻 Algorithm 💻</h2>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eh6848zzz)](https://solved.ac/eh6848zzz/)
